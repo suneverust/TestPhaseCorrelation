@@ -1,3 +1,8 @@
+# Author: Bo Sun
+# Afflication: TAMS, University of Hamburg
+# E-Mail: bosun@informatik.uni-hamburg.de
+#         user_mail@QQ.com
+
 cmake_minimum_required(VERSION 2.8 FATAL_ERROR)
 
 project(TestPhaseCorrelation)
